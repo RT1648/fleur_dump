@@ -1,0 +1,41 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: nkRknxy2ESWxbpB5rPY5jNHDavTbv0WQ7qjUXnNXv4w=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: f3EkI1kymhDYNrH4VZpcmHaCiByjcTm++NelIs++I8Y=
+
+Name: androidsupportmultidexversion.txt
+SHA-256-Digest: CLkd0NmGLADeWLPb9Daurz8YN3ruh7+fcJJhDPgHuR4=
+
+Name: classes.dex
+SHA-256-Digest: PaD3IBtVL/ReC2jcGxy78yHNG05BVHj4fLKj3O+qcVQ=
+
+Name: com/miui/analytics/ICore.aidl
+SHA-256-Digest: Mss7F4TNFKPhfhOs6VQweLIoTzC/wuZlj/EIEwISf6Q=
+
+Name: com/miui/analytics/ITrack.aidl
+SHA-256-Digest: 2b9KrgYT1hKy40CqmhuJgoX7QmvBwrNFZ0JPIORa6Mk=
+
+Name: com/miui/analytics/ITrackBinder.aidl
+SHA-256-Digest: 3dVop6Y8OuXPt0YtI2UBwtkt7v922EfCIBNVIq/+bB8=
+
+Name: com/miui/analytics/district/IMarketingDistrictService.aidl
+SHA-256-Digest: Rn5Anh/XbT81hXYsQPrl1hz6HBFjNpmmbgORDzYmNgQ=
+
+Name: com/miui/analytics/district/IMdsCallback.aidl
+SHA-256-Digest: KhAY8VOgcNbzEXwaBJBYkevO8qMmN80zgAo57sP3N/Y=
+
+Name: res/raw/credentials.json
+SHA-256-Digest: TLj6KhFrW+R5A6ltIYKs1ZvMxRGVopHh5vtODpt2d8s=
+
+Name: res/xml/network_security_config.xml
+SHA-256-Digest: pUTV8Xvl/eqLgKl2EEYnJ7iSttrwRB25RWulzVZ1LWs=
+
+Name: res/xml/remote_config_defaults.xml
+SHA-256-Digest: GHTocBlNQrw2jRYLqlVN//w1mMzN1Z/TPc1pukdJnh4=
+
+Name: resources.arsc
+SHA-256-Digest: gJjnfxsWPtk7hW3zTXHh12x1bS0KtgpDaZ8fzqAFLLU=
+

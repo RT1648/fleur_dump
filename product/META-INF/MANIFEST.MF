@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: q8zXLb0ZW0LUMGVaDoznj8/EPTPhjTmHgWOYVU+xJd0=
+
+Name: androidsupportmultidexversion.txt
+SHA-256-Digest: ZdX4cZhwGXAjcRcYYEnbRa6OkVHtWD8STmvLjqW6ihY=
+
+Name: classes.dex
+SHA-256-Digest: jNTmAnSlOIDgprg78vRBllk6F6b9uz4F8zWc0+acqTk=
+
+Name: com/miui/analytics/ICore.aidl
+SHA-256-Digest: SiCsLdviWY8xjbwAsbkQFzbBZuQRAs0qco6rKX5JNt0=
+
+Name: com/miui/analytics/ITrack.aidl
+SHA-256-Digest: E+nTziRQoyeb8EL45oXMfgKgQgdEMH39/YZffTrb8l0=
+
+Name: com/miui/analytics/ITrackBinder.aidl
+SHA-256-Digest: L0oknBXKQfyF0RDjwEoNTl0ysOv7+l2tYZ86rZmpscQ=
+
+Name: com/miui/analytics/district/IMarketingDistrictService.aidl
+SHA-256-Digest: DOyCVv+u2jmTEGyqHxf6NMgjbtOGy7puRPSczjqAm+U=
+
+Name: com/miui/analytics/district/IMdsCallback.aidl
+SHA-256-Digest: GfGDik2uLYmPr5HeB1/9rySgUAdOv+Hs1enakjGa6Oc=
+
+Name: res/raw/credentials.json
+SHA-256-Digest: Wa2ZtloELdffxDfKEZD/9LXKNCOJSuuPt93Y0hdLbXw=
+
+Name: res/xml/network_security_config.xml
+SHA-256-Digest: 9IYaJyf3iqSjCk3IIwix7GRdzOHteriqBegGaEtNvuc=
+
+Name: res/xml/remote_config_defaults.xml
+SHA-256-Digest: 9bcTCtJyjA4sd4dOPnM4rhxQAgTfMEG1kb1jO9Y5Jrk=
+
+Name: resources.arsc
+SHA-256-Digest: UAsyu18xBgx5XogMMnRPMoX2hVTCIpovAyonxCNaFy4=
+
